@@ -9,7 +9,7 @@ replicaCount: 1
 image:
   repository: jatinvashisth/react
   pullPolicy: Always
-  tag: "v1.0.1"  # ya git commit hash like "d71c303"
+  tag: "v1.0.2"  # ya git commit hash like "d71c303"
 
 
 # This is for the secrets for pulling an image from a private repository more information can be found here: https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
