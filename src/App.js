@@ -20,6 +20,9 @@ function App() {
        <h1>Devops & cloud engineer</h1>
 
 
+       <h1>ArgoCd added in my project.</h1>
+
+
        <p></p>
     </div>
   );
