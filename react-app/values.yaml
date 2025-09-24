@@ -8,7 +8,7 @@ replicaCount: 1
 # This sets the container image more information can be found here: https://kubernetes.io/docs/concepts/containers/images/
 image:
   repository: jatinvashisth/react
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   tag: "v1.0.1"  # ya git commit hash like "d71c303"
 
 
